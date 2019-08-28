@@ -1,0 +1,12 @@
+4816099|Yuli Rachmawati|TI-2A|15|
+4816101|Oryza Sativa|TI-2A|15|
+4816102|Martha Tilaar|TI-2A|20|
+4816103|Reza Harris|TI-2A|26|
+4816104|Rusdi Perdana|TI-2B|8|
+4816105|Julia Sari|TI-2B|5|
+4816106|Zain Irawan|TI-2B|1|
+4816107|Arrum Sari|TI-2B|7|
+4816111|Aminah|CCIT-2A|2|
+4816112|Chandra Thawa|CCIT-2A|8|
+4816113|Cinta Kasih|CCIT-2A|1|
+4816114|Daffa Zulfi|CCIT-2B|0|

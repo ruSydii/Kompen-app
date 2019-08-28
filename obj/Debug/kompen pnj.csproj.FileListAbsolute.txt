@@ -1,0 +1,91 @@
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\bin\Debug\kompen pnj.exe.config
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\bin\Debug\kompen pnj.exe
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\bin\Debug\kompen pnj.pdb
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen pnj.csprojResolveAssemblyReference.cache
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen_pnj.Form1.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen_pnj.Properties.Resources.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen pnj.csproj.GenerateResource.Cache
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen pnj.exe
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen pnj.pdb
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen_pnj.adm_login.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj\obj\Debug\kompen_pnj.admin_form.resources
+F:\kompen pnj\bin\Debug\kompen pnj.exe.config
+F:\kompen pnj\obj\Debug\kompen pnj.exe
+F:\kompen pnj\obj\Debug\kompen pnj.pdb
+D:\kompen pnj\bin\Debug\kompen pnj.exe.config
+D:\kompen pnj\obj\Debug\kompen pnj.exe
+D:\kompen pnj\obj\Debug\kompen pnj.pdb
+C:\Users\Owner\Desktop\kompen pnj\bin\Debug\kompen pnj.exe.config
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen pnj.exe
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen pnj.pdb
+C:\Users\Owner\Desktop\kompen pnj\bin\Debug\kompen pnj.exe
+C:\Users\Owner\Desktop\kompen pnj\bin\Debug\kompen pnj.pdb
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen pnj.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen_pnj.admin_form.resources
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen_pnj.adm_login.resources
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen_pnj.Form1.resources
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen_pnj.Properties.Resources.resources
+C:\Users\Owner\Desktop\kompen pnj\obj\Debug\kompen pnj.csproj.GenerateResource.Cache
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\kompen pnj.exe.config
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen pnj.exe
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen pnj.pdb
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\kompen pnj.exe
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\kompen pnj.pdb
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.admin_form.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.adm_login.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.Form1.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.Properties.Resources.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen pnj.csproj.GenerateResource.Cache
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.Shared.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\FlashControlV71.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\ShockwaveFlashObjects.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\bin\Debug\stdole.dll
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.report.resources
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen pnj.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\kompen pnj1.1\bin\Debug\kompen pnj.exe.config
+C:\Users\user\Desktop\kompen pnj1.1\obj\Debug\kompen pnj.exe
+C:\Users\user\Desktop\kompen pnj1.1\obj\Debug\kompen pnj.pdb
+D:\Dzaki Faturahman's Folder\Latihan C#\Project 7\kompen pnj1.1\obj\Debug\kompen_pnj.input_data.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\bin\Debug\kompen pnj.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\bin\Debug\kompen pnj.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\bin\Debug\kompen pnj.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen pnj.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.admin_form.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.adm_login.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.Form1.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.input_data.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.report.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen_pnj.updelete_form.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen pnj.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen pnj.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\kompen pnj1.1\obj\Debug\kompen pnj.pdb
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\bin\Debug\kompen pnj.exe.config
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen pnj.exe
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen pnj.pdb
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\bin\Debug\kompen pnj.exe
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\bin\Debug\kompen pnj.pdb
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen pnj.csprojResolveAssemblyReference.cache
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.admin_form.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.adm_login.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.Form1.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.input_data.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.Properties.Resources.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.report.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen_pnj.updelete_form.resources
+E:\CCIT\Smst2(Mrs.Bayu Citra)\kompen pnj1.1\kompen pnj1.1\obj\Debug\kompen pnj.csproj.GenerateResource.Cache
